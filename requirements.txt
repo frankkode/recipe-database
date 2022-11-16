@@ -23,7 +23,7 @@ parso==0.1.1
 pbr==5.2.1
 pyasn1==0.4.5
 pycparser==2.19
-pylint==1.8.1
+pylint==2.7.0
 pylint-django==0.8.0
 pylint-flask==0.5
 pylint-plugin-utils==0.5
@@ -40,4 +40,4 @@ virtualenv-clone==0.5.3
 virtualenvwrapper==4.8.4
 Werkzeug==0.15.4
 wrapt==1.11.1
-WTForms==2.2.1
+WTForms==2.3.0
