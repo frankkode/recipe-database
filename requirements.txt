@@ -23,7 +23,7 @@ parso==0.1.1
 pbr==5.2.1
 pyasn1==0.4.5
 pycparser==2.19
-pylint==1.8.1
+pylint==2.6.1
 pylint-django==0.8.0
 pylint-flask==0.5
 pylint-plugin-utils==0.5
